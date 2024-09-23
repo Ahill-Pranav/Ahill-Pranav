@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AHILL PRANAV</h1>
 <h3 align="center">"A dedicated frontend developer based in India, passionate about crafting seamless user experiences and bringing innovative ideas to life."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahill-pranav&label=Profile%20views&color=0e75b6&style=flat" alt="ahill-pranav" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahill-pranav&label=Profile%20views&color=0e75b6&style=flat" alt="ahill-pranav" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahill-pranav" alt="ahill-pranav" /></a> </p>
 
